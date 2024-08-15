@@ -1,0 +1,23 @@
+.workouts-container {
+    padding: 20px;
+}
+
+.workouts-title {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.exercise-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.exercise-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.exercise-card-content {
+    padding: 10px;
+}

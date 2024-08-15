@@ -1,0 +1,76 @@
+.sleep-tracker {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input-container label {
+  font-weight: bold;
+}
+
+.input-container input {
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.input-container button {
+  padding: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: #36a2eb;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.input-container button:hover {
+  background-color: #1e88e5;
+}
+
+.chart-container {
+  position: relative;
+  height: 400px;
+  width: 100%;
+}
+
+
+.main11
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+.div12
+{
+  
+    border-radius: 60px;
+    width: 60%;
+    height: 100vh;
+   
+}
+.div13
+{
+    border-radius: 40px;
+    width: 60%;
+    height: 100vh;
+ 
+}
+.img14
+{
+    margin-top: 100px;
+    margin-left: 60px;
+    height: 500px;
+    border-radius: 60px;
+    width: 80%;
+}
+

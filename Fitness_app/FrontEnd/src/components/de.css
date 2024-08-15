@@ -1,0 +1,61 @@
+.Meals {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+  }
+  
+  .input-container {
+    padding: 20px;
+    margin: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .MuiButton-containedPrimary {
+    background-color: #4CAF50;
+  }
+
+
+  
+  
+.main5
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+.div6
+{
+  
+    border-radius: 60px;
+    width: 50%;
+    height: 100vh;
+  
+}
+.div7
+{
+    border-radius: 40px;
+    width: 50%;
+    height: 100vh;
+ 
+}
+
+.image-container8 {
+  text-align: center;
+}
+.img9
+{ width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 768px) {
+  .main5 {
+    padding: 20px 10px;
+  }
+}
+
+
+  
